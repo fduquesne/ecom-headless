@@ -1,0 +1,10 @@
+{
+  "name": "api",
+  "private": false,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "echo \"API not bootstrapped yet\"",
+    "build": "echo \"API build not bootstrapped yet\"",
+    "test": "echo \"API tests not bootstrapped yet\""
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "web",
+  "private": false,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "echo \"Web app not bootstrapped yet\"",
+    "build": "echo \"Web build not bootstrapped yet\"",
+    "test": "echo \"Web tests not bootstrapped yet\""
+  }
+}

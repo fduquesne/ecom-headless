@@ -1,0 +1,14 @@
+{
+  "name": "ecom-headless",
+  "private": false,
+  "packageManager": "pnpm@9.0.0",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "echo \"Monorepo bootstrapped. Apps will be wired in Step 0.2+\"",
+    "build": "pnpm -r build",
+    "test": "pnpm -r test"
+  }
+}
