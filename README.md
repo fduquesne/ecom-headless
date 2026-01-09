@@ -87,6 +87,14 @@ Typical workflow:
 
 ```bash
 pnpm install
+
+# run frontend only
+pnpm --filter web dev
+
+# run api only
+pnpm --filter api dev
+
+# run both
 pnpm dev
 ```
 
@@ -101,13 +109,16 @@ Expected:
 
 Planned endpoints:
 
-- `GET /health`
 - `GET /categories`
 - `GET /products`
 - `GET /products/:id`
 - `POST /checkout`
 - `POST /payments/:paymentId/confirm`
 - `GET /orders/:orderId`
+
+Confirmed endpoints:
+
+- `GET /health`
 
 ## 🧪 Testing
 
