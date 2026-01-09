@@ -14,6 +14,7 @@ export const createApp = () => {
   // Artifact routers
   app.use("/api/artifacts/collections", artifactRoutes.collections);
   app.use("/api/artifacts/option-sets", artifactRoutes.optionSets);
+  app.use("/api/artifacts/products", artifactRoutes.products);
 
   return app;
 };
