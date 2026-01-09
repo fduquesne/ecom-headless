@@ -13,6 +13,7 @@ export const createApp = () => {
 
   // Artifact routers
   app.use("/api/artifacts/collections", artifactRoutes.collections);
+  app.use("/api/artifacts/option-sets", artifactRoutes.optionSets);
 
   return app;
 };
