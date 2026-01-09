@@ -1,0 +1,44 @@
+[
+  {
+    "id": "col_fjord",
+    "name": "Fjord",
+    "slug": "fjord",
+    "description": "Purpose-built dive instruments engineered for harsh waters.",
+    "isLimited": false
+  },
+  {
+    "id": "col_tundra",
+    "name": "Tundra",
+    "slug": "tundra",
+    "description": "Field-ready watches built for endurance, legibility, and impact resistance.",
+    "isLimited": false
+  },
+  {
+    "id": "col_havn",
+    "name": "Havn",
+    "slug": "havn",
+    "description": "Minimal dress watches with refined finishes and timeless proportions.",
+    "isLimited": false
+  },
+  {
+    "id": "col_skarn",
+    "name": "Skarn",
+    "slug": "skarn",
+    "description": "Chronograph instruments tuned for precision timing and daily wearability.",
+    "isLimited": false
+  },
+  {
+    "id": "col_aurora",
+    "name": "Aurora",
+    "slug": "aurora",
+    "description": "GMT watches for long-distance travel, built to track horizons.",
+    "isLimited": false
+  },
+  {
+    "id": "col_eira",
+    "name": "Eira",
+    "slug": "eira",
+    "description": "Limited editions from the atelier: rare materials, special dials, numbered runs.",
+    "isLimited": true
+  }
+]

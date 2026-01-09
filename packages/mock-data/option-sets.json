@@ -1,0 +1,29 @@
+[
+  {
+    "id": "os_bracelet_size_cm",
+    "name": "Bracelet size (cm)",
+    "type": "single",
+    "values": [
+      { "id": "bs_13_00", "label": "13.00" },
+      { "id": "bs_13_50", "label": "13.50" },
+      { "id": "bs_14_00", "label": "14.00" },
+      { "id": "bs_14_50", "label": "14.50" },
+      { "id": "bs_15_00", "label": "15.00" },
+      { "id": "bs_15_50", "label": "15.50" },
+      { "id": "bs_16_00", "label": "16.00" },
+      { "id": "bs_16_50", "label": "16.50" },
+      { "id": "bs_17_00", "label": "17.00" },
+      { "id": "bs_17_50", "label": "17.50" },
+      { "id": "bs_18_00", "label": "18.00" },
+      { "id": "bs_18_50", "label": "18.50" },
+      { "id": "bs_19_00", "label": "19.00" },
+      { "id": "bs_19_50", "label": "19.50 (Standard)" },
+      { "id": "bs_20_00", "label": "20.00" },
+      { "id": "bs_20_50", "label": "20.50" },
+      { "id": "bs_21_00", "label": "21.00" },
+      { "id": "bs_21_50", "label": "21.50" },
+      { "id": "bs_22_00", "label": "22.00" }
+    ],
+    "defaultValueId": "bs_19_50"
+  }
+]
