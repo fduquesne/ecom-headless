@@ -81,8 +81,6 @@ npm i -g pnpm
 
 ## 🚀 Getting Started (Local)
 
-> This section will be updated as the monorepo setup lands.
-
 Typical workflow:
 
 ```bash
@@ -157,7 +155,7 @@ pnpm test
 
 ## 🗺️ Roadmap
 
-- [ ] Step 0: monorepo bootstrap (pnpm workspaces, web + api running)
+- [x] Step 0: monorepo bootstrap (pnpm workspaces, web + api running)
 - [ ] Step 1: mock data + API catalog endpoints + tests
 - [ ] Step 2: frontend pages + TanStack Query integration
 - [ ] Step 3: cart + checkout + fake payment provider
